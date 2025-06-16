@@ -49,3 +49,21 @@ This project demonstrates practical skills in vulnerability analysis, basic GRC 
 
 ### AWS EC2 Running Instance
 ![EC2 Instance](screenshots/Running%20Instance.png)
+
+---
+
+## 📝 Final Audit Summary
+
+A Nessus Essentials scan was conducted on an Ubuntu EC2 instance hosted on AWS. The scan identified multiple vulnerabilities ranging from informational to high severity.
+
+Key findings include:
+- Open SSH services with weak configurations
+- Exposed traceroute and timestamp data
+- Backported or outdated software packages
+
+Vulnerabilities were exported to Excel, analyzed, and mapped to relevant NIST 800-53 controls including:
+- `AC-17` – Remote Access
+- `SI-2` – Flaw Remediation
+- `SC-7` – Boundary Protection
+
+A Compliance Dashboard was created to track risk categories, remediation strategies, and compliance posture. All findings were marked
