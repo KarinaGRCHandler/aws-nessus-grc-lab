@@ -38,3 +38,14 @@ This project simulates a real-world GRC (Governance, Risk & Compliance) scenario
 
 ## ✅ Outcome
 This project demonstrates practical skills in vulnerability analysis, basic GRC mapping, and compliance reporting without needing complex enterprise tools.
+
+## 📸 Lab Screenshots
+
+### Excel Structure – Vulnerability Summary
+![Excel Summary](screenshots/excel-structure-summary.png)
+
+### Excel Structure – Compliance Dashboard
+![Excel Dashboard](screenshots/excel-structure-dashboard.png)
+
+### AWS EC2 Running Instance
+![EC2 Instance](screenshots/Running%20Instance.png)
