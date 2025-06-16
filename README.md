@@ -67,3 +67,7 @@ Vulnerabilities were exported to Excel, analyzed, and mapped to relevant NIST 80
 - `SC-7` – Boundary Protection
 
 A Compliance Dashboard was created to track risk categories, remediation strategies, and compliance posture. All findings were marked
+
+## 📝 Final Audit Report
+[📄 View the full audit summary](FINAL-AUDIT-SUMMARY.txt)
+
